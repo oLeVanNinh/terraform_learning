@@ -1,5 +1,5 @@
 [dev]
-18.208.203.60
+100.26.109.76
 [dev:vars]
-s3code=mydomainname-170
+s3code=mydomainname-149
 domain=mydomainname
