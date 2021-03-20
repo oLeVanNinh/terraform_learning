@@ -5,3 +5,4 @@ data "aws_availability_zones" "available" {}
 variable "cidrs" {
   type = map(string)
 }
+variable "domain_name" {}
