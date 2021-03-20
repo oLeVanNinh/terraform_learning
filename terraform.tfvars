@@ -10,4 +10,8 @@ cidrs = {
   rds2     = "10.0.6.0/24"
   rds3     = "10.0.7.0/24"
 }
-domain_name = "mydomainname"
+domain_name       = "mydomainname"
+db_instance_class = "db.t2.micro"
+dbname            = "mydbname"
+dbuser            = "mydbuser"
+dbpassword        = "mydbpass"
